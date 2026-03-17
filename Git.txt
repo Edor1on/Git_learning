@@ -245,3 +245,18 @@ hotfix/...: пожежні гілки для критичних багів на 
 Коли використовувати: Будь-який Open Source на GitHub. Якщо ти захочеш виправити баг у бібліотеці React чи Angular — ти будеш робити це саме через Fork.
 
 Вердикт DevOps: Це те, що ти обов'язково маєш вміти. Навіть на деяких закритих корпоративних проєктах використовують форки для додаткової безпеки.
+
+
+
+
+
+
+
+
+
+
+Training Presentation: DevTestOps-Version_Control_with_Git.pdf
+
+Git official website: https://git-scm.com/
+
+The book "ProGit", second edition, in Russian: https://git-scm.com/book/ru/v2
